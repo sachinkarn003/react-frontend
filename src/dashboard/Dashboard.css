@@ -1,0 +1,49 @@
+.dashboard-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+.dashboard-container h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.user-info {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+
+.user-info p {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.leave-history {
+  margin-top: 30px;
+}
+
+.leave-history h1 {
+  font-size: 1.8em;
+  margin: 0 0 20px 0;
+}
+
+.leave-history p {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.leave-history p:first-child {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.leave-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
